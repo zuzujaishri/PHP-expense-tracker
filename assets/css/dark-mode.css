@@ -1,0 +1,36 @@
+/* Dark mode base */
+body.dark-mode {
+    background-color: #121212 !important;
+    color: #e0e0e0;
+}
+
+/* Cards */
+.dark-mode .card {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+/* Tables */
+.dark-mode table {
+    color: #ffffff;
+}
+
+.dark-mode .table-dark {
+    background-color: #222;
+}
+
+/* Navbar */
+.dark-mode .navbar {
+    background-color: #000 !important;
+}
+
+/* Buttons */
+.dark-mode .btn-outline-dark {
+    color: #fff;
+    border-color: #fff;
+}
+
+.dark-mode .btn-outline-dark:hover {
+    background: #fff;
+    color: #000;
+}
